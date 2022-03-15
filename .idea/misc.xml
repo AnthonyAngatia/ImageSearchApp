@@ -5,6 +5,15 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Omi1/AndroidStudioProjects/ImageSearchApp/app/src/main/res/drawable/gradient.xml" value="0.1905" />
+        <entry key="..\:/Users/Omi1/AndroidStudioProjects/ImageSearchApp/app/src/main/res/layout/fragement_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/Omi1/AndroidStudioProjects/ImageSearchApp/app/src/main/res/layout/item_unsplash_images.xml" value="0.384140061791967" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
