@@ -1,4 +1,4 @@
-package com.codinginflow.imagesearchapp
+package com.codinginflow.imagesearchapp.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
@@ -7,8 +7,8 @@ import kotlinx.android.parcel.Parcelize
 data class UnsplashPhoto(
     val id:String,
     val description:String?,
-    val urls:UnsplashPhotoUrls,
-    val user:UnsplashUser
+    val urls: UnsplashPhotoUrls,
+    val user: UnsplashUser
 ):Parcelable{
 
     @Parcelize
