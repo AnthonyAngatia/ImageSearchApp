@@ -14,10 +14,11 @@
         <entry key="..\:/Users/Omi1/AndroidStudioProjects/ImageSearchApp/app/src/main/res/layout/item_unsplash_images.xml" value="0.384140061791967" />
         <entry key="..\:/Users/Omi1/AndroidStudioProjects/ImageSearchApp/app/src/main/res/layout/unsplash_photo_load_state_footer.xml" value="0.21289537712895376" />
         <entry key="..\:/Users/Omi1/AndroidStudioProjects/ImageSearchApp/app/src/main/res/menu/menu_gallery.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/antho/AndroidStudioProjects/ImageSearchApp/app/src/main/res/layout/fragment_details.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
